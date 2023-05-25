@@ -27,7 +27,7 @@ print(a)
 # helpe(função) - > para saber como funciona uma função
 #help(numpy)
 
-#INDEXAÇÃO
+# INDEXAÇÃO
 #Indexação dessa forma mantém relação com a matriz original
 A = numpy.array([[1, 2, 3], [4, 5, 6]])
 B = A[:2,:2]
